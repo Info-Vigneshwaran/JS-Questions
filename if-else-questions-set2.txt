@@ -1,0 +1,13 @@
+1. Accept the following from the user and calculate the percentange of class attend.
+    a. Total number of working days
+    b. Total number of days absent
+After calculating the percentange show that if percentange is less than 75 then student will 
+not able to attend the exam
+
+2. Accept the percentange from user and display the grade according to the following criteria
+    Below 25 - D
+    25 to 45 - C
+    45 to 50 - B
+    50 to 60 - B+
+    60 to 80 - A
+    Above 80 - A+

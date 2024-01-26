@@ -1,0 +1,38 @@
+1. Write the simple sytax of if-else statement?
+
+2. write a program to check whether a person is eligible for voting or not?
+
+3. write a program to check whether the number is odd or even?
+
+4. write a program to check whether the number is divisible by 7 or not?
+
+5. write a program to display "Hello" if number is a multiple of 5 otherwise print "Bye"?
+
+6. write a program to calculate a electricity bill according to following criteria:
+Unit                    Price
+First 100 Units         no charge
+Next 100 Units          Rs. 5 per Unit
+Next 200 Units          Rs. 10 per Unit
+
+7. Write a program to accept percentange from the user to display
+the grade according to the following criteria
+Marks                       Grade
+greater than 95             A+
+Mark between 90 to 95       A
+Mark between 85 to 90       B+
+Mark between 80 to 85       B
+Mark between 75 to 80       C+
+Mark between 70 to 75       D+
+Below 70                    D
+
+8. Write program to calculate a road tax for a bike according to following criteria
+Cost Price(In Rupees)           Tax %
+greater than 100000             15 %
+between 50000 to 100000         10 %
+Below 50000                     5 %
+
+9. Write a program to check number is from 1 to 7 and display the name of the day
+Like 1 for Sunday, 2 for Monday ,3 for Tuesday and so on
+
+10. Write a program to check number is from 1 to 2 and display the name of the Month
+Like 1 for Jan, 2 for Feb ,3 for Mar and so on
