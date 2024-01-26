@@ -4,10 +4,76 @@
 After calculating the percentange show that if percentange is less than 75 then student will 
 not able to attend the exam
 
-2. Accept the percentange from user and display the grade according to the following criteria
+2. Accept the percentange from user and display the grade according to the following criteria?
     Below 25 - D
     25 to 45 - C
     45 to 50 - B
     50 to 60 - B+
     60 to 80 - A
     Above 80 - A+
+
+3. A company decided to give bonus to employee according to the following criteria?
+    Time Period of service              bonus
+    More than 15 years                  15 %
+    10 to 15                            10 %
+    6 to 10                             8 %
+    Below 5                             5%
+
+4. Accept the city from the user and display monument of the city?
+    City                monument
+    Delhi               Red Fort
+    Agra                Taj Mahal
+    Jaipur              Jal Mahal
+
+5. Write a program to check whether a entered number is three digit number or not?
+
+6. Write a program to check whether a number is positive or not?
+
+7. Write a program to find the largest number out of three numbers expected from the user.
+
+8. Write a program to find the lowest number out of three numbers expected from the user.
+
+9. Accept the age of 4 people and display the youngest one.
+
+10. Accept the age of 4 people and display the oldest one.
+
+11. Write a program to Accept percentange and display the category according to the following criteria
+    percentange                 category
+    below 40                    Failed
+    between 45 to 50            Fair
+    between 50 to 55            Average
+    between 55 to 60            Best
+    between 60 to 65            Good
+    between 65 to 70            Improved
+    between 70 t0 75            Fair Enough
+    above 75                    Excellent
+
+12. Write a program to Accept two numbers and mathematical operators and perform action accordingly
+    Example:
+    Enter first number: 6
+    Enter second number : 5
+    Enter operator: +
+    Your answer is : 11
+
+13. Accept the age , sex('M','F'), number of days and display the wages accordingly
+    age                                     sex             wage/day
+    greater than 17 and less than 30        M               700
+                                            F               750
+
+    greater than 31 and less than 41        M               800
+                                            F               850
+if age does not fall in any range display the following message: "Enter appropriate age"
+
+14. Accept the number of days from the user and calculate the charge for library according to the following criteria
+    Till five days:     Rs. 2 / day
+    6 to 10 days        Rs. 3 / day
+    11 to 15 days       Rs. 4 / day
+    16 to 20 days       Rs. 5 / day
+    21 t0 25 days       Rs. 6 / day
+    26 to 30 days       Rs. 7 / day
+    31 to 35 days       Rs. 8 / day
+    36 To 40 days       Rs. 9 / day
+    above 41 days       Rs. 10 / day
+
+
+          
