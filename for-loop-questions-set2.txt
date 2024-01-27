@@ -1,0 +1,36 @@
+1. Write a JS code to find duplicate values in a given array
+
+2. Write a JavaScript program that computes the average marks of the following students. Then, this average is used to determine the corresponding grade.
+    Student Name	Marks           The grades are computed as follows:
+    David	        80              Range               grade
+    Vinoth	        77              <60                 F
+    Divya	        88              <70                 D
+    Ishitha	        95              <80                 C
+    Thomas	        68              <90                 B
+                                    <100                A
+            
+3. Write a JavaScript program that iterates integers from 1 to 100. 
+But for multiples of three print "Three" instead of the number and for multiples of five print "Five". 
+For numbers multiples of both three and five print "ThreeFive".
+
+4. Write a JavaScript program to construct the following pattern, using a nested for loop. Input get from user
+Example:            
+*  
+* *  
+* * *  
+* * * *  
+* * * * *
+
+5. Write a JavaScript program to sum 3 and 5 multiples under 1000.
+
+6. Write a JavaScript for loop that iterates from 0 to 15.
+For each iteration, it checks if the current number is odd or even, and displays a message on the screen.
+    Sample Output:
+    "0 is even"
+    "1 is odd"
+    "2 is even"
+
+7. Get two numbers from user. and perform following conditions
+    sum all the numbers
+    sum only odd numbers
+    sum only even numbers

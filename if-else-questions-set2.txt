@@ -75,5 +75,3 @@ if age does not fall in any range display the following message: "Enter appropri
     36 To 40 days       Rs. 9 / day
     above 41 days       Rs. 10 / day
 
-
-          
